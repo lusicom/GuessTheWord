@@ -1,0 +1,1 @@
+changed the architecture of the app to use one of the Android Architecture Components, ViewModel. You resolved the app's lifecycle issue, and now the game's data survives configuration changes. You also learned how to create a parameterized constructor for creating a ViewModel, using the ViewModelFactory interface.
